@@ -1,0 +1,12 @@
+
+ original num samples was  570  after removing batches with number of samples fewer than  4  it's  569 
+
+ original num samples was  570  after removing batches with number of samples fewer than  4  it's  569 
+
+ original num samples was  570  after removing batches with number of samples fewer than  4  it's  569 
+
+ original num samples was  570  after removing batches with number of samples fewer than  4  it's  569 
+
+ original num samples was  570  after removing batches with number of samples fewer than  4  it's  569 
+
+ original num samples was  570  after removing batches with number of samples fewer than  4  it's  569 
